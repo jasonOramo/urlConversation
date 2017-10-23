@@ -1,0 +1,21 @@
+{
+    "name": "jasonOramo/urlConversation",
+    "description" : "uri conversation from JS to php",
+    "keywords": [
+        "uri",
+        "rfc3986",
+        "php"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name" : "jasonOramo",
+        }
+    ],
+    "require": {
+        "php" : ">=5.3"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
